@@ -1,0 +1,15 @@
+C:\Users\Bruno\Desktop\C#\TheBasis\TheBasis\bin\Debug\net6.0\TheBasis.exe
+C:\Users\Bruno\Desktop\C#\TheBasis\TheBasis\bin\Debug\net6.0\TheBasis.deps.json
+C:\Users\Bruno\Desktop\C#\TheBasis\TheBasis\bin\Debug\net6.0\TheBasis.runtimeconfig.json
+C:\Users\Bruno\Desktop\C#\TheBasis\TheBasis\bin\Debug\net6.0\TheBasis.dll
+C:\Users\Bruno\Desktop\C#\TheBasis\TheBasis\bin\Debug\net6.0\TheBasis.pdb
+C:\Users\Bruno\Desktop\C#\TheBasis\TheBasis\obj\Debug\net6.0\TheBasis.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\C#\TheBasis\TheBasis\obj\Debug\net6.0\TheBasis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\C#\TheBasis\TheBasis\obj\Debug\net6.0\TheBasis.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\C#\TheBasis\TheBasis\obj\Debug\net6.0\TheBasis.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\C#\TheBasis\TheBasis\obj\Debug\net6.0\TheBasis.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C#\TheBasis\TheBasis\obj\Debug\net6.0\TheBasis.dll
+C:\Users\Bruno\Desktop\C#\TheBasis\TheBasis\obj\Debug\net6.0\refint\TheBasis.dll
+C:\Users\Bruno\Desktop\C#\TheBasis\TheBasis\obj\Debug\net6.0\TheBasis.pdb
+C:\Users\Bruno\Desktop\C#\TheBasis\TheBasis\obj\Debug\net6.0\TheBasis.genruntimeconfig.cache
+C:\Users\Bruno\Desktop\C#\TheBasis\TheBasis\obj\Debug\net6.0\ref\TheBasis.dll
